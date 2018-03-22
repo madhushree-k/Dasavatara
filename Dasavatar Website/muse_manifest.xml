@@ -1,0 +1,622 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dasavatara.edu" resolutions="1x,2x" timestamp="1521737868190">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3956342438" ref="index"/>
+    <file name="master_b-master.css" crc="59990356" ref="krishna:vamana:kalki:balarama:matsya:varaha:parashurama:rama:kurma:narasimha"/>
+    <file name="krishna.css" crc="4046357110" ref="krishna"/>
+    <file name="vamana.css" crc="3976083606" ref="vamana"/>
+    <file name="kalki.css" crc="29244171" ref="kalki"/>
+    <file name="balarama.css" crc="3765205156" ref="balarama"/>
+    <file name="matsya.css" crc="533180115" ref="matsya"/>
+    <file name="varaha.css" crc="4251778995" ref="varaha"/>
+    <file name="parashurama.css" crc="214692852" ref="parashurama"/>
+    <file name="rama.css" crc="292987377" ref="rama"/>
+    <file name="index.css" crc="4142317529" ref="index"/>
+    <file name="kurma.css" crc="4064461010" ref="kurma"/>
+    <file name="narasimha.css" crc="4025418157" ref="narasimha"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="museutils.js" crc="3803043152" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="whatinput.js" crc="86476730" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="museconfig.js" crc="380897831" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="require.js" crc="4157109226" ref="index:matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="webpro.js" crc="242022427" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+  </folder>
+  <folder name="images">
+    <file name="nasset 4n.png" crc="296320025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 4n_2x.png" crc="4248804453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2611-4.png" crc="159152557" ref="index"/>
+    <file name="u2611-4_2x.png" crc="192704746" ref="index"/>
+    <file name="nasset 2n.png" crc="4128761656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuga keyasset 25n-crop-u2643.png" crc="3888510085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuga keyasset 25n-crop-u2643_2x.png" crc="4228962316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuga keyasset 25n-crop-u2684.png" crc="4146707764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yuga keyasset 25n-crop-u2684_2x.png" crc="520062442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yugaasset 24n.png" crc="181235249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yugaasset 24n_2x.png" crc="4279343631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2608-4.png" crc="95963797" ref="index"/>
+    <file name="u2608-4_2x.png" crc="4132668473" ref="index"/>
+    <file name="evolutionasset 23n-crop-u2623.png" crc="3908154697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="evolutionasset 23n-crop-u2623_2x.png" crc="532357276" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u276-4.png" crc="4001937185" ref="index"/>
+    <file name="u276-4_2x.png" crc="154935402" ref="index"/>
+    <file name="nasset 1n.png" crc="3863247058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n_2x.png" crc="333851195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 2n63x63.png" crc="4128761656" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="asset 1n227x65.png" crc="3783718006" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="chota avtars-02-crop-u631.png" crc="4176386528" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-02-crop-u631_2x.png" crc="321609839" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="untitled-3-02-crop-u617.png" crc="4275893851" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="untitled-3-02-crop-u617_2x.png" crc="3788137858" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-05-crop-u581.png" crc="426476547" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-05-crop-u581_2x.png" crc="234978408" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-08-crop-u589.png" crc="4293300376" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-08-crop-u589_2x.png" crc="515084832" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-01-crop-u624.png" crc="4238912244" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-01-crop-u624_2x.png" crc="3871133826" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-03-crop-u638.png" crc="4277953216" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-03-crop-u638_2x.png" crc="480957004" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-04-crop-u645.png" crc="3772723662" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-04-crop-u645_2x.png" crc="531793628" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="fishasset 30n.png" crc="158044661" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="fishasset 30n_2x.png" crc="313208032" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="u2185-5.png" crc="404827472" ref="matsya"/>
+    <file name="u2185-5_2x.png" crc="3995020195" ref="matsya"/>
+    <file name="fishasset 19n.png" crc="159762870" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="fishasset 19n_2x.png" crc="4097401585" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki"/>
+    <file name="u1749.png" crc="367524206" ref="matsya"/>
+    <file name="u1749_2x.png" crc="4247911271" ref="matsya"/>
+    <file name="u1749-r.png" crc="11565430" ref="matsya"/>
+    <file name="u1749-r_2x.png" crc="28950189" ref="matsya"/>
+    <file name="u1749-m.png" crc="11565430" ref="matsya"/>
+    <file name="u1749-m_2x.png" crc="28950189" ref="matsya"/>
+    <file name="u1749-a.png" crc="3975583685" ref="matsya"/>
+    <file name="u1749-a_2x.png" crc="401901545" ref="matsya"/>
+    <file name="fishasset 20n-crop-u2578.png" crc="259528712" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="fishasset 20n-crop-u2578_2x.png" crc="4242255653" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="chota avtars-09-crop-u596.png" crc="106041346" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-09-crop-u596_2x.png" crc="145655914" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-11-crop-u603.png" crc="132259725" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="chota avtars-11-crop-u603_2x.png" crc="4220977866" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="kalki-01-crop-u610.png" crc="392917235" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="kalki-01-crop-u610_2x.png" crc="173188616" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki">
+      <caption webpage="vamana" alt=""/>
+      <caption webpage="krishna" alt=""/>
+      <caption webpage="rama" alt=""/>
+      <caption webpage="narasimha" alt=""/>
+      <caption webpage="parashurama" alt=""/>
+      <caption webpage="matsya" alt=""/>
+      <caption webpage="varaha" alt=""/>
+      <caption webpage="kurma" alt=""/>
+      <caption webpage="kalki" alt=""/>
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="nasset 1n392x56.png" crc="4198260355" seo="true" ref="matsya">
+      <caption webpage="matsya" alt=""/>
+    </file>
+    <file name="turtleasset 17n.png" crc="213104207" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="turtleasset 17n_2x.png" crc="454865513" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="turtletitleasset 21n.png" crc="4127243343" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="turtletitleasset 21n_2x.png" crc="165327644" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="u2209-5.png" crc="345107775" ref="kurma"/>
+    <file name="u2209-5_2x.png" crc="3812895287" ref="kurma"/>
+    <file name="u1734.png" crc="367524206" ref="kurma"/>
+    <file name="u1734_2x.png" crc="73251939" ref="kurma"/>
+    <file name="u1734-r.png" crc="11565430" ref="kurma"/>
+    <file name="u1734-r_2x.png" crc="102095908" ref="kurma"/>
+    <file name="u1734-m.png" crc="11565430" ref="kurma"/>
+    <file name="u1734-m_2x.png" crc="102095908" ref="kurma"/>
+    <file name="u1734-a.png" crc="3975583685" ref="kurma"/>
+    <file name="u1734-a_2x.png" crc="4048288658" ref="kurma"/>
+    <file name="turtleasset 18n-crop-u2320.png" crc="150215047" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="turtleasset 18n-crop-u2320_2x.png" crc="24533241" seo="true" ref="kurma">
+      <caption webpage="kurma" alt=""/>
+    </file>
+    <file name="boarasset 24n.png" crc="4293561223" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="boarasset 24n_2x.png" crc="4133772565" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="u2206-5.png" crc="362059698" ref="varaha"/>
+    <file name="u2206-5_2x.png" crc="4231637604" ref="varaha"/>
+    <file name="boarasset 15n.png" crc="254714888" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="boarasset 15n_2x.png" crc="3831079903" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="u1719.png" crc="367524206" ref="varaha"/>
+    <file name="u1719_2x.png" crc="73251939" ref="varaha"/>
+    <file name="u1719-r.png" crc="11565430" ref="varaha"/>
+    <file name="u1719-r_2x.png" crc="102095908" ref="varaha"/>
+    <file name="u1719-m.png" crc="11565430" ref="varaha"/>
+    <file name="u1719-m_2x.png" crc="102095908" ref="varaha"/>
+    <file name="u1719-a.png" crc="3975583685" ref="varaha"/>
+    <file name="u1719-a_2x.png" crc="4048288658" ref="varaha"/>
+    <file name="boarasset 16n-crop-u2402.png" crc="4290418099" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="boarasset 16n-crop-u2402_2x.png" crc="160390478" seo="true" ref="varaha">
+      <caption webpage="varaha" alt=""/>
+    </file>
+    <file name="lionasset 21n.png" crc="4068586345" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="lionasset 21n_2x.png" crc="4273369079" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="u2203-5.png" crc="4161927837" ref="narasimha"/>
+    <file name="u2203-5_2x.png" crc="67168992" ref="narasimha"/>
+    <file name="lionasset 13n.png" crc="492561049" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="lionasset 13n_2x.png" crc="25166388" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="u1704.png" crc="367524206" ref="narasimha"/>
+    <file name="u1704_2x.png" crc="414550642" ref="narasimha"/>
+    <file name="u1704-r.png" crc="11565430" ref="narasimha"/>
+    <file name="u1704-r_2x.png" crc="127198476" ref="narasimha"/>
+    <file name="u1704-m.png" crc="11565430" ref="narasimha"/>
+    <file name="u1704-m_2x.png" crc="127198476" ref="narasimha"/>
+    <file name="u1704-a.png" crc="3975583685" ref="narasimha"/>
+    <file name="u1704-a_2x.png" crc="204169557" ref="narasimha"/>
+    <file name="lionasset 14n-crop-u2422.png" crc="3832590272" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="lionasset 14n-crop-u2422_2x.png" crc="96954039" seo="true" ref="narasimha">
+      <caption webpage="narasimha" alt=""/>
+    </file>
+    <file name="vamanasset 18n.png" crc="200888441" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="vamanasset 18n_2x.png" crc="4146651645" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="u2200-5.png" crc="4213621143" ref="vamana"/>
+    <file name="u2200-5_2x.png" crc="4104935862" ref="vamana"/>
+    <file name="vamanasset 11n.png" crc="488922470" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="vamanasset 11n_2x.png" crc="3895994345" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="u1689.png" crc="367524206" ref="vamana"/>
+    <file name="u1689_2x.png" crc="73251939" ref="vamana"/>
+    <file name="u1689-r.png" crc="11565430" ref="vamana"/>
+    <file name="u1689-r_2x.png" crc="102095908" ref="vamana"/>
+    <file name="u1689-m.png" crc="11565430" ref="vamana"/>
+    <file name="u1689-m_2x.png" crc="102095908" ref="vamana"/>
+    <file name="u1689-a.png" crc="3975583685" ref="vamana"/>
+    <file name="u1689-a_2x.png" crc="4048288658" ref="vamana"/>
+    <file name="vamanasset 12n-crop-u2442.png" crc="3878517808" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="vamanasset 12n-crop-u2442_2x.png" crc="394786619" seo="true" ref="vamana">
+      <caption webpage="vamana" alt=""/>
+    </file>
+    <file name="parushuramaasset 15n.png" crc="190306922" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="parushuramaasset 15n_2x.png" crc="302900690" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="u2197-5.png" crc="3983774119" ref="parashurama"/>
+    <file name="u2197-5_2x.png" crc="4069645720" ref="parashurama"/>
+    <file name="parshuramasset 9n.png" crc="163431761" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="parshuramasset 9n_2x.png" crc="326314433" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="u1674.png" crc="536001638" ref="parashurama"/>
+    <file name="u1674_2x.png" crc="4159520574" ref="parashurama"/>
+    <file name="u1674-r.png" crc="4226760883" ref="parashurama"/>
+    <file name="u1674-r_2x.png" crc="3985291524" ref="parashurama"/>
+    <file name="u1674-m.png" crc="4226760883" ref="parashurama"/>
+    <file name="u1674-m_2x.png" crc="3985291524" ref="parashurama"/>
+    <file name="u1674-a.png" crc="4112292527" ref="parashurama"/>
+    <file name="u1674-a_2x.png" crc="430539905" ref="parashurama"/>
+    <file name="parshuramasset 10n-crop-u2474.png" crc="369866202" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="parshuramasset 10n-crop-u2474_2x.png" crc="46538721" seo="true" ref="parashurama">
+      <caption webpage="parashurama" alt=""/>
+    </file>
+    <file name="ramaasset 11n.png" crc="137235069" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="ramaasset 11n_2x.png" crc="4052429804" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="u2191-5.png" crc="3953297924" ref="rama"/>
+    <file name="u2191-5_2x.png" crc="307407023" ref="rama"/>
+    <file name="ramasset 7n.png" crc="4104436823" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="ramasset 7n_2x.png" crc="199337958" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="u1644.png" crc="367524206" ref="rama"/>
+    <file name="u1644_2x.png" crc="73251939" ref="rama"/>
+    <file name="u1644-r.png" crc="11565430" ref="rama"/>
+    <file name="u1644-r_2x.png" crc="102095908" ref="rama"/>
+    <file name="u1644-m.png" crc="11565430" ref="rama"/>
+    <file name="u1644-m_2x.png" crc="102095908" ref="rama"/>
+    <file name="u1644-a.png" crc="3975583685" ref="rama"/>
+    <file name="u1644-a_2x.png" crc="4048288658" ref="rama"/>
+    <file name="ramasset 8n-crop-u2514.png" crc="4218713801" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="ramasset 8n-crop-u2514_2x.png" crc="4209122691" seo="true" ref="rama">
+      <caption webpage="rama" alt=""/>
+    </file>
+    <file name="balaramaasset 8n.png" crc="3862379550" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="balaramaasset 8n_2x.png" crc="187290542" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="u2188-5.png" crc="3901295326" ref="balarama"/>
+    <file name="u2188-5_2x.png" crc="449418638" ref="balarama"/>
+    <file name="balramasset 5n.png" crc="3952741183" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="balramasset 5n_2x.png" crc="3948373948" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="u1659.png" crc="536001638" ref="balarama"/>
+    <file name="u1659_2x.png" crc="4064542456" ref="balarama"/>
+    <file name="u1659-r.png" crc="4226760883" ref="balarama"/>
+    <file name="u1659-r_2x.png" crc="4031833367" ref="balarama"/>
+    <file name="u1659-m.png" crc="4226760883" ref="balarama"/>
+    <file name="u1659-m_2x.png" crc="4031833367" ref="balarama"/>
+    <file name="u1659-a.png" crc="4112292527" ref="balarama"/>
+    <file name="u1659-a_2x.png" crc="265424595" ref="balarama"/>
+    <file name="balramasset 6n-crop-u2534.png" crc="3974195670" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="balramasset 6n-crop-u2534_2x.png" crc="465591228" seo="true" ref="balarama">
+      <caption webpage="balarama" alt=""/>
+    </file>
+    <file name="krishnaasset 5n.png" crc="4258648653" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="krishnaasset 5n_2x.png" crc="4289701588" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="u2182-5.png" crc="203070037" ref="krishna"/>
+    <file name="u2182-5_2x.png" crc="326778224" ref="krishna"/>
+    <file name="krishnaasset 3n.png" crc="4258018960" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="krishnaasset 3n_2x.png" crc="3819085970" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="u1614.png" crc="367524206" ref="krishna"/>
+    <file name="u1614_2x.png" crc="73251939" ref="krishna"/>
+    <file name="u1614-r.png" crc="11565430" ref="krishna"/>
+    <file name="u1614-r_2x.png" crc="102095908" ref="krishna"/>
+    <file name="u1614-m.png" crc="11565430" ref="krishna"/>
+    <file name="u1614-m_2x.png" crc="102095908" ref="krishna"/>
+    <file name="u1614-a.png" crc="3975583685" ref="krishna"/>
+    <file name="u1614-a_2x.png" crc="4048288658" ref="krishna"/>
+    <file name="krishnaasset 4n-crop-u2558.png" crc="219254899" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="krishnaasset 4n-crop-u2558_2x.png" crc="4177763169" seo="true" ref="krishna">
+      <caption webpage="krishna" alt=""/>
+    </file>
+    <file name="kalkiasset 1n.png" crc="265370888" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="kalkiasset 1n_2x.png" crc="353037383" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="kalkiasset 4n.png" crc="93931257" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="kalkiasset 4n_2x.png" crc="4048758474" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="u2194-5.png" crc="4149999595" ref="kalki"/>
+    <file name="u2194-5_2x.png" crc="369290569" ref="kalki"/>
+    <file name="kalkiasset 1n2.png" crc="4161004103" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="kalkiasset 1n_2x2.png" crc="4258535327" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="u1629.png" crc="367524206" ref="kalki"/>
+    <file name="u1629_2x.png" crc="73251939" ref="kalki"/>
+    <file name="u1629-r.png" crc="11565430" ref="kalki"/>
+    <file name="u1629-r_2x.png" crc="102095908" ref="kalki"/>
+    <file name="u1629-m.png" crc="11565430" ref="kalki"/>
+    <file name="u1629-m_2x.png" crc="102095908" ref="kalki"/>
+    <file name="u1629-a.png" crc="3975583685" ref="kalki"/>
+    <file name="u1629-a_2x.png" crc="4048288658" ref="kalki"/>
+    <file name="kalkiasset 2n-crop-u2494.png" crc="80878475" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+    <file name="kalkiasset 2n-crop-u2494_2x.png" crc="300239646" seo="true" ref="kalki">
+      <caption webpage="kalki" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="146735623" seo="true" mt="1521737850739" redirect="true"/>
+  <file name="matsya.html" crc="290686407" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="kurma.html" crc="16339232" seo="true" mt="1521737657571" redirect="true"/>
+  <file name="varaha.html" crc="3825184213" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="narasimha.html" crc="3938549569" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="vamana.html" crc="3892144270" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="parashurama.html" crc="279963026" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="rama.html" crc="284852978" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="balarama.html" crc="3785392049" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="krishna.html" crc="3980875870" seo="true" mt="1521737546152" redirect="true"/>
+  <file name="kalki.html" crc="365079082" seo="true" mt="1521737546152" redirect="true"/>
+</manifest>
