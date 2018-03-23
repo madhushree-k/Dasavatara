@@ -66,12 +66,6 @@
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n229x33.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n229x33_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dasavatara.edu/images/nasset%202n80x80.png</image:loc>
     </image:image>
     <image:image>
@@ -97,12 +91,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n218x31.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n218x31_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/nasset%202n72x72.png</image:loc>
@@ -132,12 +120,6 @@
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n196x28.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n196x28_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dasavatara.edu/images/nasset%202n64x64.png</image:loc>
     </image:image>
     <image:image>
@@ -163,12 +145,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n174x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n174x25_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/nasset%202n54x54.png</image:loc>
@@ -198,12 +174,6 @@
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n147x21.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n147x21_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://dasavatara.edu/images/nasset%202n38x39.png</image:loc>
     </image:image>
     <image:image>
@@ -229,12 +199,6 @@
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/evolutionasset%2023n-crop-u2623_2x7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n105x15.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://dasavatara.edu/images/nasset%201n105x15_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/cycle2asset%201n.png</image:loc>
@@ -475,6 +439,36 @@
     </image:image>
     <image:image>
       <image:loc>http://dasavatara.edu/images/asset%2012small%20icon52x52.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n261x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n261x38_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n235x34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n235x34_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n209x30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n209x30_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n177x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n177x26_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n141x20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://dasavatara.edu/images/nasset%201n141x20_2x.png</image:loc>
     </image:image>
   </url>
   <url>

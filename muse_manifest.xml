@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dasavatara.edu" resolutions="1x,2x" timestamp="1521787421584">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dasavatara.edu" resolutions="1x,2x" timestamp="1521789015325">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3943953325" ref="index"/>
+    <file name="master_a-master.css" crc="4271112791" ref="index"/>
     <file name="master_b-master.css" crc="201596155" ref="krishna:vamana:kalki:balarama:matsya:varaha:parashurama:rama:kurma:narasimha:references"/>
     <file name="krishna.css" crc="3810191077" ref="krishna"/>
     <file name="vamana.css" crc="4022072635" ref="vamana"/>
@@ -11,10 +11,10 @@
     <file name="varaha.css" crc="4158021620" ref="varaha"/>
     <file name="parashurama.css" crc="176313988" ref="parashurama"/>
     <file name="rama.css" crc="4208289925" ref="rama"/>
-    <file name="index.css" crc="4162263853" ref="index"/>
+    <file name="index.css" crc="130451738" ref="index"/>
     <file name="kurma.css" crc="3963829737" ref="kurma"/>
     <file name="narasimha.css" crc="133618793" ref="narasimha"/>
-    <file name="nomq_preview_master_a-master.css" crc="3956342438" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4022876021" ref="index"/>
     <file name="nomq_preview_master_b-master.css" crc="3936831317" ref="matsya:narasimha:krishna:rama:kurma:kalki:vamana:varaha:balarama:parashurama:references"/>
     <file name="nomq_matsya.css" crc="4010696213" ref="matsya"/>
     <file name="nomq_narasimha.css" crc="4107968319" ref="narasimha"/>
@@ -23,7 +23,7 @@
     <file name="nomq_kurma.css" crc="3806536818" ref="kurma"/>
     <file name="nomq_kalki.css" crc="471873595" ref="kalki"/>
     <file name="nomq_vamana.css" crc="97916754" ref="vamana"/>
-    <file name="nomq_index.css" crc="4019493304" ref="index"/>
+    <file name="nomq_index.css" crc="278605245" ref="index"/>
     <file name="nomq_varaha.css" crc="4008703924" ref="varaha"/>
     <file name="nomq_balarama.css" crc="171677931" ref="balarama"/>
     <file name="nomq_parashurama.css" crc="291674541" ref="parashurama"/>
@@ -73,12 +73,10 @@
     <file name="evolutionasset 23n-crop-u2623_2x.png" crc="4285920392" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u276-4.png" crc="4001937185" ref="index"/>
-    <file name="u276-4_2x.png" crc="154935402" ref="index"/>
-    <file name="nasset 1n.png" crc="3863247058" seo="true" ref="index">
+    <file name="nasset 1n.png" crc="3967499831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nasset 1n_2x.png" crc="333851195" seo="true" ref="index">
+    <file name="nasset 1n_2x.png" crc="278577407" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nasset 2n63x63.png" crc="4128761656" seo="true" ref="matsya">
@@ -405,13 +403,7 @@
     <file name="evolutionasset 23n-crop-u26232.png" crc="417919068" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="evolutionasset 23n-crop-u2623_2x2.png" crc="104508170" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nasset 1n229x33.png" crc="4052690538" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nasset 1n229x33_2x.png" crc="67338969" seo="true" ref="index">
+    <file name="evolutionasset 23n-crop-u2623_2x2.png" crc="32847297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nasset 2n80x80.png" crc="4128761656" seo="true" ref="index">
@@ -445,13 +437,6 @@
     <file name="evolutionasset 23n-crop-u2623_2x3.png" crc="3974578298" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nasset 1n218x31.png" crc="316828709" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="matsya" alt=""/>
-    </file>
-    <file name="nasset 1n218x31_2x.png" crc="424288470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="nasset 2n72x72.png" crc="4128761656" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -481,12 +466,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="evolutionasset 23n-crop-u2623_2x4.png" crc="3984536379" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nasset 1n196x28.png" crc="111288228" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nasset 1n196x28_2x.png" crc="4198260355" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nasset 2n64x64.png" crc="4128761656" seo="true" ref="index">
@@ -520,13 +499,6 @@
     <file name="evolutionasset 23n-crop-u2623_2x5.png" crc="4186238680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nasset 1n174x25.png" crc="4252045219" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="matsya" alt=""/>
-    </file>
-    <file name="nasset 1n174x25_2x.png" crc="382693167" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="nasset 2n54x54.png" crc="4128761656" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -558,13 +530,6 @@
     <file name="evolutionasset 23n-crop-u2623_2x6.png" crc="3851279066" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nasset 1n147x21.png" crc="316122690" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="matsya" alt=""/>
-    </file>
-    <file name="nasset 1n147x21_2x.png" crc="82636596" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="nasset 2n38x39.png" crc="463659113" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -594,13 +559,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="evolutionasset 23n-crop-u2623_2x7.png" crc="70166708" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nasset 1n105x15.png" crc="221302728" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="matsya" alt=""/>
-    </file>
-    <file name="nasset 1n105x15_2x.png" crc="504953747" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="chota avtars-02-crop-u3515.png" crc="181294677" seo="true" ref="matsya:kurma:varaha:narasimha:vamana:parashurama:rama:balarama:krishna:kalki:references">
@@ -3695,8 +3653,54 @@
     <file name="u9964-56_2x5.png" crc="80565856" ref="references"/>
     <file name="u9964-566.png" crc="389942289" ref="references"/>
     <file name="u9964-56_2x6.png" crc="417539333" ref="references"/>
+    <file name="u10687-4.png" crc="5600564" ref="index"/>
+    <file name="u10687-4_2x.png" crc="4071886953" ref="index"/>
+    <file name="nasset 1n261x38.png" crc="3863247058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n261x38_2x.png" crc="333851195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10687-42.png" crc="185644736" ref="index"/>
+    <file name="u10687-4_2x2.png" crc="209776308" ref="index"/>
+    <file name="u10687-43.png" crc="3901478240" ref="index"/>
+    <file name="u10687-4_2x3.png" crc="70926928" ref="index"/>
+    <file name="u10687-44.png" crc="4246654932" ref="index"/>
+    <file name="u10687-4_2x4.png" crc="3804371681" ref="index"/>
+    <file name="nasset 1n235x34.png" crc="505417575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n235x34_2x.png" crc="511253566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10687-45.png" crc="4125981584" ref="index"/>
+    <file name="u10687-4_2x5.png" crc="3788039182" ref="index"/>
+    <file name="nasset 1n209x30.png" crc="504953747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n209x30_2x.png" crc="3763770427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10687-46.png" crc="4046726857" ref="index"/>
+    <file name="u10687-4_2x6.png" crc="3889027291" ref="index"/>
+    <file name="nasset 1n177x26.png" crc="131927286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n177x26_2x.png" crc="487825021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10687-47.png" crc="3845137371" ref="index"/>
+    <file name="u10687-4_2x7.png" crc="330540528" ref="index"/>
+    <file name="nasset 1n141x20.png" crc="290300064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nasset 1n141x20_2x.png" crc="305882500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="279565452" seo="true" mt="1521787042847" redirect="true"/>
+  <file name="index.html" crc="425762273" seo="true" mt="1521788995547" redirect="true"/>
   <file name="matsya.html" crc="3843273765" seo="true" mt="1521787315089" redirect="true"/>
   <file name="kurma.html" crc="3825995098" seo="true" mt="1521787315089" redirect="true"/>
   <file name="varaha.html" crc="71656633" seo="true" mt="1521787315089" redirect="true"/>
